@@ -2,7 +2,6 @@
 pragma solidity 0.8.25;
 
 contract SimpleStorage {
-    // Basic Types: Boolean, uint, int, address, bytes
     // ; says that the statement has completed!
     uint256  HasFavouriteNumber;
     
